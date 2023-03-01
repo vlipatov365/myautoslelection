@@ -62,7 +62,7 @@ class Autoselection
             'VERSION' => '1',
             'DESCRIPTION' => '',
             'WORKFLOW' => 'N',
-            'BIZPROC' => 'Y',
+            'BIZPROC' => 'N',
             'SECTIONS' => [
                 'NAME' => Loc::getMessage('MY_AUTOSELECTION_SECTION_NAME'),
                 'CODE' => 'AutoSelection',
